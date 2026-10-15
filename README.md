@@ -2,6 +2,10 @@
 
 A web app that predicts the probability of a loan applicant defaulting. A trained XGBoost/scikit-learn pipeline is served through a FastAPI backend, with a simple HTML/CSS/JS frontend.
 
+**Live demo:** https://credit-ledger-1fek.onrender.com (API docs: [/docs](https://credit-ledger-1fek.onrender.com/docs))
+
+> Hosted on Render's free plan, so the first request after idle can take 30–60 seconds.
+
 ## Project Structure
 
 ```
